@@ -1,2 +1,2 @@
 # Python-Practice
-This my daily python practice file 
+This is my daily python practice file 
