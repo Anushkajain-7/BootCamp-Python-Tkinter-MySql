@@ -1,2 +1,2 @@
-# Python-Practice And Laerning Git and GitHub
+# Python-Practice And Learning Git and GitHub
 Learning Git and GitHub and Daily Python practice
