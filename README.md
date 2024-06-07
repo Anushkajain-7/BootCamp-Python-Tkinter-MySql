@@ -1,2 +1,4 @@
-# Python-Practice And Learning Git and GitHub
-Learning Git and GitHub and Daily Python practice
+# Python-Practice
+This is my daily Python practice repo 
+<br>
+Learning git and github 
