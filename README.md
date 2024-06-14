@@ -37,6 +37,7 @@ The repository is organized into directories based on the topics mentioned above
 
 - Python 
 - Git
+- MySql
 - A code editor (VS Code, MySQL, etc.)
 
 ## Contributing
