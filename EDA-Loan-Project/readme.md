@@ -6,7 +6,7 @@ This repository contains the code and data for performing Exploratory Data Analy
 
 ## Dataset
 
-The dataset used for this project is `processed_loan_data.csv`, which contains various features related to loans.
+The dataset used for this project is `loan 2.csv`, which contains various features related to loans.
 
 ## Analysis Steps
 
